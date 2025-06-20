@@ -1,1 +1,0 @@
-# smart-community-elderly-care-management_frontend
